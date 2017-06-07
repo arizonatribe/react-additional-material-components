@@ -1,8 +1,8 @@
 {
   "name": "react-additional-material-components",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Some useful React web components (several higher order components) that leverage Material-UI components",
-  "main": "./build/index.js",
+  "main": "./dist/index.js",
   "scripts": {
     "prebuild": "npm run clean",
     "build": "BABEL_ENV=production babel src --out-dir dist --ignore node_modules/",
