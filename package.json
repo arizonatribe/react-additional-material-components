@@ -1,6 +1,6 @@
 {
   "name": "react-additional-material-components",
-  "version": "1.0.1",
+  "version": "1.0.5",
   "description": "Some useful React web components (several higher order components) that leverage Material-UI components",
   "main": "./dist/index.js",
   "scripts": {
@@ -25,10 +25,10 @@
       "components"
   ],
   "author": "David Nunez <arizonatribe@gmail.com>",
-  "license": "ISC",
+  "license": "MIT",
   "homepage": "https://github.com/arizonatribe/react-additional-material-components#readme",
   "dependencies": {
-    "utilitarian": "1.0.0",
+    "utilitarian": "1.0.5",
     "aphrodite": "1.1.0",
     "material-ui": "0.16.6",
     "react": "15.4.2",
