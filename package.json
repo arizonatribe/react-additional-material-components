@@ -1,6 +1,6 @@
 {
   "name": "react-additional-material-components",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Some useful React web components (several higher order components) that leverage Material-UI components",
   "main": "./dist/index.js",
   "scripts": {
@@ -16,15 +16,18 @@
     "url": "git+ssh://git@github.com/arizonatribe/react-additional-material-components.git"
   },
   "keywords": [
-      "javascript",
-      "react",
-      "node",
-      "material",
-      "materialui",
-      "web",
-      "components"
+    "javascript",
+    "react",
+    "node",
+    "material",
+    "materialui",
+    "web",
+    "components"
   ],
   "author": "David Nunez <arizonatribe@gmail.com>",
+  "contributors": [
+    "Steve McDowall <steve_mcdowall@mentor.com>"
+  ],
   "license": "MIT",
   "homepage": "https://github.com/arizonatribe/react-additional-material-components#readme",
   "dependencies": {
@@ -37,12 +40,12 @@
   "devDependencies": {
     "babel-cli": "6.24.0",
     "babel-eslint": "6.1.2",
-    "babel-plugin-transform-object-rest-spread": "^6.8.0",
+    "babel-plugin-transform-object-rest-spread": "6.8.0",
     "babel-polyfill": "6.22.0",
     "babel-preset-es2015": "6.9.0",
     "babel-preset-es2015-native-modules": "6.9.3",
     "babel-preset-react": "6.11.1",
-    "eslint": "^3.5.0",
+    "eslint": "3.5.0",
     "eslint-config-airbnb": "10.0.1",
     "eslint-loader": "1.5.0",
     "eslint-plugin-import": "1.14.0",
